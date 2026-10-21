@@ -19,6 +19,7 @@
       <g:brand>Boss ATV</g:brand>
       <g:mpn>ATVR-BOSS-110</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>3018</g:google_product_category>
       <g:product_type>Infantil</g:product_type>
       <g:product_detail><g:section_name>Ficha</g:section_name><g:attribute_name>Año</g:attribute_name><g:attribute_value>2026</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Ficha técnica</g:section_name><g:attribute_name>Cilindraje</g:attribute_name><g:attribute_value>110 cc</g:attribute_value></g:product_detail>
@@ -47,6 +48,7 @@
       <g:brand>Boss ATV</g:brand>
       <g:mpn>ATVR-BOSS-125</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>3018</g:google_product_category>
       <g:product_type>Cuatrimoto</g:product_type>
       <g:product_detail><g:section_name>Ficha</g:section_name><g:attribute_name>Año</g:attribute_name><g:attribute_value>2026</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Ficha técnica</g:section_name><g:attribute_name>Cilindraje</g:attribute_name><g:attribute_value>125 cc</g:attribute_value></g:product_detail>
@@ -76,6 +78,7 @@
       <g:brand>Boss ATV</g:brand>
       <g:mpn>ATVR-BOSS-200</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>3018</g:google_product_category>
       <g:product_type>Cuatrimoto</g:product_type>
       <g:product_detail><g:section_name>Ficha</g:section_name><g:attribute_name>Año</g:attribute_name><g:attribute_value>2026</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Ficha técnica</g:section_name><g:attribute_name>Cilindraje</g:attribute_name><g:attribute_value>200 cc</g:attribute_value></g:product_detail>
@@ -105,6 +108,7 @@
       <g:brand>TAO Motor</g:brand>
       <g:mpn>ATVR-TITAN-250</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>3018</g:google_product_category>
       <g:product_type>Cuatrimoto</g:product_type>
       <g:product_detail><g:section_name>Ficha</g:section_name><g:attribute_name>Año</g:attribute_name><g:attribute_value>2026</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Ficha técnica</g:section_name><g:attribute_name>Cilindraje</g:attribute_name><g:attribute_value>250 cc</g:attribute_value></g:product_detail>
@@ -136,6 +140,7 @@
       <g:brand>Trail Blazer</g:brand>
       <g:mpn>ATVR-BUGGY-ARENERO-200</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>2528</g:google_product_category>
       <g:product_type>Buggy</g:product_type>
       <g:product_detail><g:section_name>Ficha</g:section_name><g:attribute_name>Año</g:attribute_name><g:attribute_value>2026</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Ficha técnica</g:section_name><g:attribute_name>Cilindraje</g:attribute_name><g:attribute_value>200 cc</g:attribute_value></g:product_detail>
@@ -165,6 +170,7 @@
       <g:brand>Trail Blazer</g:brand>
       <g:mpn>ATVR-BUGGY-CAMPERO-200</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>3018</g:google_product_category>
       <g:product_type>Buggy</g:product_type>
       <g:product_detail><g:section_name>Ficha</g:section_name><g:attribute_name>Año</g:attribute_name><g:attribute_value>2026</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Ficha técnica</g:section_name><g:attribute_name>Cilindraje</g:attribute_name><g:attribute_value>200 cc</g:attribute_value></g:product_detail>
@@ -195,6 +201,7 @@
       <g:brand>Trail Blazer</g:brand>
       <g:mpn>ATVR-BUGGY-CAMPERO-300-FI</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>3018</g:google_product_category>
       <g:product_type>Buggy</g:product_type>
       <g:product_detail><g:section_name>Ficha</g:section_name><g:attribute_name>Año</g:attribute_name><g:attribute_value>2027</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Ficha técnica</g:section_name><g:attribute_name>Cilindraje</g:attribute_name><g:attribute_value>300 cc</g:attribute_value></g:product_detail>
@@ -225,6 +232,7 @@
       <g:brand>ATV Riders</g:brand>
       <g:mpn>ATVR-RANGER-350</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>3018</g:google_product_category>
       <g:product_type>Cuatrimoto</g:product_type>
       <g:product_detail><g:section_name>Ficha</g:section_name><g:attribute_name>Año</g:attribute_name><g:attribute_value>2026</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Ficha técnica</g:section_name><g:attribute_name>Cilindraje</g:attribute_name><g:attribute_value>350 cc</g:attribute_value></g:product_detail>
@@ -252,6 +260,7 @@
       <g:brand>TAO Motor</g:brand>
       <g:mpn>ATVR-GOLF-48V</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>3931</g:google_product_category>
       <g:product_type>Carro de golf</g:product_type>
       <g:product_detail><g:section_name>Ficha</g:section_name><g:attribute_name>Año</g:attribute_name><g:attribute_value>2026</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Ficha técnica</g:section_name><g:attribute_name>Motor</g:attribute_name><g:attribute_value>Eléctrico 48 V · 5 kW</g:attribute_value></g:product_detail>
