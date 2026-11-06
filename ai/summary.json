@@ -56,7 +56,7 @@
     ]
   },
   "catalog": {
-    "count": 9,
+    "count": 10,
     "currency": "COP",
     "priceRange": {
       "min": 4990000,
@@ -211,6 +211,23 @@
           "Batería": "155 Ah",
           "Frenos": "Disco hidráulico",
           "Extras": "Techo, LCD, USB, reversa"
+        }
+      },
+      {
+        "sku": " cuatrimoto-titan-200cc-hummer",
+        "name": "CUATRIMOTO HUMMER 200CC BOSS ",
+        "brand": "BOSS ATV ",
+        "category": "Cuatrimoto",
+        "price": 14990001,
+        "url": "https://cuatrimotosatv.com/productos/cuatrimoto-boss-200cchummer/",
+        "specs": {
+          "Cilindraje ": "200cc",
+          "Traccion": "4x2",
+          "Potencia": "17Hp",
+          "Velocidad Máx": "60 km",
+          "Capacidad": "200 kg",
+          "Arrastre": "100 kg",
+          "Pendiente Máx": "20"
         }
       }
     ]

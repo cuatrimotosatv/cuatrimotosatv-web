@@ -1,6 +1,6 @@
 # Cuatrimotos ATV Riders — contenido completo
 
-> Concesionario colombiano de cuatrimotos, buggies y carros de golf, con 14 años comercializando vehículos todo terreno. Showroom y taller propios en Cota, Cundinamarca, sobre la Calle 80 a la salida de Bogotá. 9 modelos nuevos entre $4.990.000 COP y $39.990.000 COP. Última revisión: 2026-11-06.
+> Concesionario colombiano de cuatrimotos, buggies y carros de golf, con 14 años comercializando vehículos todo terreno. Showroom y taller propios en Cota, Cundinamarca, sobre la Calle 80 a la salida de Bogotá. 10 modelos nuevos entre $4.990.000 COP y $39.990.000 COP. Última revisión: 2026-11-06.
 
 ## Datos del negocio
 
@@ -78,6 +78,26 @@ La Boss 200cc es la más vendida del catálogo porque es donde se cruzan el trab
 El sistema de frenos es de disco independiente adelante y disco atrás, acompañando a la tracción 4×2. La suspensión es independiente en el eje delantero y monoshock en el trasero, ambas con cápsula de gas para que la amortiguación sea más suave en terreno difícil.
 
 El motor es monocilíndrico de dos válvulas refrigerado por aire y entrega hasta 17 caballos de fuerza, con una velocidad máxima de 60 km/h y capacidad para desafiar inclinaciones de hasta 20 grados. Si buscas un equipo cómodo, con capacidad media de carga y que sirva igual para el fin de semana y para la finca, esta es la ideal.
+
+### CUATRIMOTO HUMMER 200CC BOSS  — $14.990.001 COP
+
+- URL: https://cuatrimotosatv.com/productos/cuatrimoto-boss-200cchummer/
+- Referencia:  cuatrimoto-titan-200cc-hummer · Marca: BOSS ATV  · Categoría: Cuatrimoto
+- Modelo: HUMMER (2026)
+- Cilindraje : 200cc
+- Traccion: 4x2
+- Potencia: 17Hp
+- Velocidad Máx: 60 km
+- Capacidad: 200 kg
+- Arrastre: 100 kg
+- Pendiente Máx: 20
+
+La Boss 200cc es la más vendida del catálogo porque es donde se cruzan el trabajo y la recreación. Marca Boss ATV, modelo 2026, importada de China, soporta hasta 200 kg entre pasajeros y carga, y arrastra hasta 100 kg contando el peso del tráiler.
+
+El sistema de frenos es de disco independiente adelante y disco atrás, acompañando a la tracción 4×2. La suspensión es independiente en el eje delantero y monoshock en el trasero, ambas con cápsula de gas para que la amortiguación sea más suave en terreno difícil.
+
+El motor es monocilíndrico de dos válvulas refrigerado por aire y entrega hasta 17 caballos de fuerza, con una velocidad máxima de 60 km/h y capacidad para desafiar inclinaciones de hasta 20 grados. Si buscas un equipo cómodo, con capacidad media de carga y que sirva igual para el fin de semana y para la finca, esta es la ideal.
+
 
 ### Cuatrimoto Titan 250cc 4x2 — $15.990.000 COP
 

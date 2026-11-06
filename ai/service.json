@@ -18,7 +18,7 @@
   "services": [
     {
       "name": "Venta de vehículos todo terreno",
-      "description": "Cuatrimotos, buggies y carros de golf nuevos. 9 modelos en stock, de 4990000 COP a 39990000 COP.",
+      "description": "Cuatrimotos, buggies y carros de golf nuevos. 10 modelos en stock, de 4990000 COP a 39990000 COP.",
       "url": "https://cuatrimotosatv.com/tienda/",
       "availability": "in_stock"
     },
