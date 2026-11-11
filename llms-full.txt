@@ -1,6 +1,6 @@
 # Cuatrimotos ATV Riders — contenido completo
 
-> Concesionario colombiano de cuatrimotos, buggies y carros de golf, con 14 años comercializando vehículos todo terreno. Showroom y taller propios en Cota, Cundinamarca, sobre la Calle 80 a la salida de Bogotá. 10 modelos nuevos entre $4.990.000 COP y $39.990.000 COP. Última revisión: 2026-11-06.
+> Concesionario colombiano de cuatrimotos, buggies y carros de golf, con 14 años comercializando vehículos todo terreno. Showroom y taller propios en Cota, Cundinamarca, sobre la Calle 80 a la salida de Bogotá. 10 modelos nuevos entre $4.990.000 COP y $39.990.000 COP. Última revisión: 2026-11-11.
 
 ## Datos del negocio
 
@@ -151,10 +151,34 @@ La estructura tubular es resistente y liviana, monta llantas todo terreno con tr
 - Modelo: Buggie Campero 200 (2026)
 - Cilindraje: 200 cc
 - Tracción: 4×2
-- Potencia: 21 HP
+- Potencia: 22 HP
 - Velocidad máx.: 60 km/h
+- Línea: UTV 200
+- Tipo de motor: 4 tiempos, refrigerado por aire
+- Cilindros: 1, en línea
+- Diámetro y carrera: 62,5 × 62,2 mm
+- Índice de compresión: 10:1
+- Torque máx.: 10,5 N·m a 5.500 rpm
+- Alimentación: Bomba de gasolina por succión
+- Combustible: Gasolina
+- Tanque: 10 litros
+- Transmisión: CVT automática
+- Marchas: 1 adelante, neutro y reversa
+- Arranque: Eléctrico (CDI)
+- Dirección: Mecánica
+- Pasajeros: 2
 - Capacidad: 350 kg
-- Frenos: Disco hidráulico
+- Peso neto: 255 kg
+- Dimensiones: 2.350 × 1.220 × 1.560 mm
+- Altura al asiento: 540 mm
+- Suspensión delantera: Amortiguadores dobles
+- Suspensión trasera: Amortiguadores dobles con monoshock
+- Frenos: Disco hidráulico independiente, delantero y trasero
+- Llantas delanteras: 21×7-10, todo terreno
+- Llantas traseras: 20×10-10, todo terreno
+- Rines: Aluminio
+- Luces: LED frontales
+- Batería: 12 V 12 Ah, seca
 - Seguridad: Cinturón 4 puntos
 
 Capacidad de trabajo real: 350 kg entre pasajeros y carga.
