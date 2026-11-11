@@ -238,20 +238,20 @@
         }
       },
       {
-        "sku": " cuatrimoto-titan-200cc-hummer",
-        "name": "CUATRIMOTO HUMMER 200CC BOSS ",
-        "brand": "BOSS ATV ",
+        "sku": "ATVR-BOSS-200-HUMMER",
+        "name": "Cuatrimoto Boss Hummer 200cc 4x2",
+        "brand": "Boss ATV",
         "category": "Cuatrimoto",
         "price": 14990000,
         "url": "https://cuatrimotosatv.com/productos/cuatrimoto-boss-200cchummer/",
         "specs": {
-          "Cilindraje ": "200cc",
-          "Traccion": "4x2",
-          "Potencia": "17Hp",
-          "Velocidad Máx": "60 km",
+          "Cilindraje": "200 cc",
+          "Tracción": "4×2",
+          "Potencia": "17 HP",
+          "Velocidad máx.": "60 km/h",
           "Capacidad": "200 kg",
           "Arrastre": "100 kg",
-          "Pendiente Máx": "20"
+          "Pendiente máx.": "20°"
         }
       }
     ]

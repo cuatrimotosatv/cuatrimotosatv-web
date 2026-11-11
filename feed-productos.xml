@@ -278,10 +278,10 @@
       </g:shipping>
     </item>
     <item>
-      <g:id> cuatrimoto-titan-200cc-hummer</g:id>
-      <g:title>CUATRIMOTO HUMMER 200CC BOSS </g:title>
-      <g:description>La Boss 200cc es la más vendida del catálogo porque es donde se cruzan el trabajo y la recreación. Marca Boss ATV, modelo 2026, importada de China, soporta hasta 200 kg entre pasajeros y carga, y arrastra hasta 100 kg contando el peso del tráiler. El sistema de frenos es de disco independiente adelante y disco atrás, acompañando a la tracción 4×2. La suspensión es independiente en el eje delantero y monoshock en el trasero, ambas con cápsula de gas para que la amortiguación sea más suave en terreno difícil. El motor es monocilíndrico de dos válvulas refrigerado por aire y entrega hasta 17 caballos de fuerza, con una velocidad máxima de 60 km/h y capacidad para desafiar inclinaciones de hasta 20 grados. Si buscas un equipo cómodo, con capacidad media de carga y que sirva igual para el fin de semana y para la finca, esta es la ideal.
- Cilindraje : 200cc. Traccion: 4x2. Potencia: 17Hp. Velocidad Máx: 60 km. Capacidad: 200 kg. Arrastre: 100 kg. Pendiente Máx: 20 Garantía de 1 año en chasis y motor y 6 meses en partes eléctricas.</g:description>
+      <g:id>ATVR-BOSS-200-HUMMER</g:id>
+      <g:title>Cuatrimoto Boss Hummer 200cc 4x2</g:title>
+      <g:description>La Boss Hummer 200cc es la versión de carrocería Hummer de la Boss 200cc. Marca Boss ATV, modelo 2026, importada de China, soporta hasta 200 kg entre pasajeros y carga, y arrastra hasta 100 kg contando el peso del tráiler. El sistema de frenos es de disco independiente adelante y disco atrás, acompañando a la tracción 4×2. La suspensión es independiente en el eje delantero y monoshock en el trasero, ambas con cápsula de gas para que la amortiguación sea más suave en terreno difícil. El motor es monocilíndrico de dos válvulas refrigerado por aire y entrega hasta 17 caballos de fuerza, con una velocidad máxima de 60 km/h y capacidad para desafiar inclinaciones de hasta 20 grados. Si buscas un equipo cómodo, con capacidad media de carga y que sirva igual para el fin de semana y para la finca, esta es la ideal.
+ Cilindraje: 200 cc. Tracción: 4×2. Potencia: 17 HP. Velocidad máx.: 60 km/h. Capacidad: 200 kg. Arrastre: 100 kg. Pendiente máx.: 20° Garantía de 1 año en chasis y motor y 6 meses en partes eléctricas.</g:description>
       <g:link>https://cuatrimotosatv.com/productos/cuatrimoto-boss-200cchummer/</g:link>
       <g:image_link>https://cuatrimotosatv.com/_astro/ATV%20ne%C3%B3n%20en%20sendero%20monta%C3%B1oso%20(1).e1EGQ5jB_1k8oQ9.webp</g:image_link>
       <g:additional_image_link>https://cuatrimotosatv.com/_astro/ATV%20Hummer%20al%20atardecer%20monta%C3%B1oso.BCajWlkJ_1dKUS1.webp</g:additional_image_link>
@@ -290,19 +290,19 @@
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>14990000 COP</g:price>
-      <g:brand>BOSS ATV </g:brand>
-      <g:mpn> cuatrimoto-titan-200cc-hummer</g:mpn>
+      <g:brand>Boss ATV</g:brand>
+      <g:mpn>ATVR-BOSS-200-HUMMER</g:mpn>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>3018</g:google_product_category>
       <g:product_type>Cuatrimoto</g:product_type>
       <g:product_detail><g:section_name>Ficha</g:section_name><g:attribute_name>Año</g:attribute_name><g:attribute_value>2026</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Ficha técnica</g:section_name><g:attribute_name>Cilindraje </g:attribute_name><g:attribute_value>200cc</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Ficha técnica</g:section_name><g:attribute_name>Traccion</g:attribute_name><g:attribute_value>4x2</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Ficha técnica</g:section_name><g:attribute_name>Potencia</g:attribute_name><g:attribute_value>17Hp</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Ficha técnica</g:section_name><g:attribute_name>Velocidad Máx</g:attribute_name><g:attribute_value>60 km</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Ficha técnica</g:section_name><g:attribute_name>Cilindraje</g:attribute_name><g:attribute_value>200 cc</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Ficha técnica</g:section_name><g:attribute_name>Tracción</g:attribute_name><g:attribute_value>4×2</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Ficha técnica</g:section_name><g:attribute_name>Potencia</g:attribute_name><g:attribute_value>17 HP</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Ficha técnica</g:section_name><g:attribute_name>Velocidad máx.</g:attribute_name><g:attribute_value>60 km/h</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Ficha técnica</g:section_name><g:attribute_name>Capacidad</g:attribute_name><g:attribute_value>200 kg</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Ficha técnica</g:section_name><g:attribute_name>Arrastre</g:attribute_name><g:attribute_value>100 kg</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Ficha técnica</g:section_name><g:attribute_name>Pendiente Máx</g:attribute_name><g:attribute_value>20</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Ficha técnica</g:section_name><g:attribute_name>Pendiente máx.</g:attribute_name><g:attribute_value>20°</g:attribute_value></g:product_detail>
       <g:shipping>
         <g:country>CO</g:country>
         <g:price>400000 COP</g:price>
